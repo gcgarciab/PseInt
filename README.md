@@ -13,4 +13,4 @@ Entre los ejercicios tenemos :
 * potencia_recursiva : Realiza potenciacion sin usar el operador **.
 * primo : Dice si un numero es o no primo.
 * primos_hasta(indice) : Lista los numeros primos hasta el valor que se desee.
-* ganancia_galletas : Halla la ganancia de un ejercicio en clase-
+* ganancia_galletas : Halla la ganancia de un ejercicio en clase.
